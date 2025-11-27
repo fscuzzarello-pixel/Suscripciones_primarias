@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gestor de Títulos Públicos",
+  "description": "Herramienta para procesar archivos de carga de títulos públicos, agrupando nominales por CUIT y generando archivos TXT de salida con formato específico (8 columnas).",
+  "requestFramePermissions": []
+}
